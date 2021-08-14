@@ -83,4 +83,3 @@ Utilizar `Command + Shift + P` e pesquisar por `Preferences: Open Setting (JSON)
 - Live Server
 - Beautify
 - Live Share
--  
