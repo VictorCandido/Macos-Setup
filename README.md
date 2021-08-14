@@ -73,3 +73,14 @@ Utilizar `Command + Shift + P` e pesquisar por `Preferences: Open Setting (JSON)
 ```
 "terminal.integrated.shell.osx": "/bin/zsh"
 ```
+
+## VSCode Plugins
+- Dracula Official
+- Material Icon Theme
+- Angular Extension Pack
+- Java Extension Pack
+- GitLens — Git supercharged
+- Live Server
+- Beautify
+- Live Share
+-  
