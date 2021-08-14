@@ -7,6 +7,7 @@
 - HyperSwitch
 - Spectacle
 - Logitech Options
+- Node
 
 ## Comandos
 ### Install Brew
