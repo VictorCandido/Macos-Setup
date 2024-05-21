@@ -4,7 +4,7 @@
 - Google Chrome
 - Iterm2
 - Visual Studio Code
-- HyperSwitch
+- Alt-tab
 - Spectacle
 - Logitech Options
 - Node
