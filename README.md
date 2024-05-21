@@ -9,6 +9,7 @@
 - Logitech Options
 - Node
 - Orbstack
+- Nvm
 
 ## Comandos
 ### Install Brew
