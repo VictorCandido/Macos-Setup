@@ -10,6 +10,7 @@
 - Node
 - Orbstack
 - Nvm
+- Office 365
 
 ## Comandos
 ### Install Brew
