@@ -8,6 +8,7 @@
 - Spectacle
 - Logitech Options
 - Node
+- Orbstack
 
 ## Comandos
 ### Install Brew
