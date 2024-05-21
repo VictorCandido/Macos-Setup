@@ -56,9 +56,12 @@ Agora dentro do arquivo `~/.zshrc` vamos alterar a variável `ZSH_THEME` ficando
 ZSH_THEME="spaceship"
 ```
 
-### Plugins do ZSH
+### Plugins do ZSH (zInit)
 ```
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/zdharma/zinit/master/doc/install.sh)"
+bash -c "$(curl --fail --show-error --silent --location https://raw.githubusercontent.com/zdharma-continuum/zinit/HEAD/scripts/install.sh)"
+```
+```
+zinit self-update
 ```
 
 Após essa instalação, vamos abrir o arquivo `~/.zshrc` novamente e abaixo da linha `### End of ZInit's installer chunk` que foi adicionada automaticamente no arquivo, adicionamos:
